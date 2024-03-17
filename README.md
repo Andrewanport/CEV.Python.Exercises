@@ -6,9 +6,21 @@
 ---
 ### 💎 Highlights
 
-**[[#007]](CEV/C1/C007.py) - Average grade of a student**
+**[[#029]](CEV/C1/C029.py) - Traffic ticket**
 
-**[[#009]](CEV/C1/C009.py) - Multiplication table**
+**[[#034]](CEV/C1/C034.py) - Types of Salary raise** 
+
+**[[#036]](CEV/C1/C036.py) - Property financing**
+
+**[[#044]](CEV/C1/C044.py) - Payment type**
+
+**[[#045]](CEV/C1/C045.py) - Rock Paper Scissors** 
+
+**[[#049]](CEV/C1/C049.py) - Multiplication table 2**
+
+**[[#053]](CEV/C1/C053.py) - Palindrome**
+
+**[[#058]](CEV/C1/C058.py) - Guess the number 2**
 
 ---
 ### C1:
@@ -104,3 +116,52 @@
 **[[#039]](CEV/C1/C039.py) - Military enlistment**
 
 **[[#040]](CEV/C1/C040.py) - Average grade of a student 2** ❤️
+
+---
+
+### C5:
+
+**[[#041]](CEV/C1/C041.py) - Athlete classification** 
+
+**[[#042]](CEV/C1/C042.py) - Equilateral, isosceles and scalene**
+
+**[[#043]](CEV/C1/C043.py) - IMC**
+
+**[[#044]](CEV/C1/C044.py) - Payment type** ❤️
+
+**[[#045]](CEV/C1/C045.py) - Rock Paper Scissors** ❤️
+
+**[[#046]](CEV/C1/C046.py) - Happy New Year!** 
+
+**[[#047]](CEV/C1/C047.py) - Even numbers**
+
+**[[#048]](CEV/C1/C048.py) - Multiples of 3**
+
+**[[#049]](CEV/C1/C049.py) - Multiplication table 2** ❤️
+
+**[[#050]](CEV/C1/C050.py) - Even numbers sum** 
+
+---
+
+### C6:
+
+**[[#051]](CEV/C1/C051.py) - Arithmetic progression** ❤️
+
+**[[#052]](CEV/C1/C052.py) - Prime number**
+
+**[[#053]](CEV/C1/C053.py) - Palindrome** ❤️
+
+**[[#054]](CEV/C1/C054.py) - Of legal age** 
+
+**[[#055]](CEV/C1/C055.py) - Average weight** ❤️
+
+**[[#056]](CEV/C1/C056.py) - Ages** 
+
+**[[#057]](CEV/C1/C057.py) - M / F**
+
+**[[#058]](CEV/C1/C058.py) - Guess the number 2** ❤️
+
+**[[#059]](CEV/C1/C059.py) - Math operations** 
+
+**[[#060]](CEV/C1/C060.py) - Factorial** 
+
