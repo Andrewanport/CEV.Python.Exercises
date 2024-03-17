@@ -6,21 +6,21 @@
 ---
 ### 💎 Highlights
 
-**[[#029]](CEV/C1/C029.py) - Traffic ticket**
+**[[#029]](CEV/C3/C029.py) - Traffic ticket**
 
-**[[#034]](CEV/C1/C034.py) - Types of Salary raise** 
+**[[#034]](CEV/C4/C034.py) - Types of Salary raise** 
 
-**[[#036]](CEV/C1/C036.py) - Property financing**
+**[[#036]](CEV/C4/C036.py) - Property financing**
 
-**[[#044]](CEV/C1/C044.py) - Payment type**
+**[[#044]](CEV/C5/C044.py) - Payment type**
 
-**[[#045]](CEV/C1/C045.py) - Rock Paper Scissors** 
+**[[#045]](CEV/C5/C045.py) - Rock Paper Scissors** 
 
-**[[#049]](CEV/C1/C049.py) - Multiplication table 2**
+**[[#049]](CEV/C5/C049.py) - Multiplication table 2**
 
-**[[#053]](CEV/C1/C053.py) - Palindrome**
+**[[#053]](CEV/C6/C053.py) - Palindrome**
 
-**[[#058]](CEV/C1/C058.py) - Guess the number 2**
+**[[#058]](CEV/C6/C058.py) - Guess the number 2**
 
 ---
 ### C1:
@@ -73,95 +73,95 @@
 
 ### C3:
 
-**[[#021]](CEV/C1/C021.py) - Music**
+**[[#021]](CEV/C3/C021.py) - Music**
 
-**[[#022]](CEV/C1/C022.py) - String Manipulation**
+**[[#022]](CEV/C3/C022.py) - String Manipulation**
 
-**[[#023]](CEV/C1/C023.py) - Units, tens, hundreds and thousands**
+**[[#023]](CEV/C3/C023.py) - Units, tens, hundreds and thousands**
 
-**[[#024]](CEV/C1/C024.py) - City name filter**
+**[[#024]](CEV/C3/C024.py) - City name filter**
 
-**[[#025]](CEV/C1/C025.py) - Name filter**
+**[[#025]](CEV/C3/C025.py) - Name filter**
 
-**[[#026]](CEV/C1/C026.py) - Letters Location**
+**[[#026]](CEV/C3/C026.py) - Letters Location**
 
-**[[#027]](CEV/C1/C027.py) - First and last name**
+**[[#027]](CEV/C3/C027.py) - First and last name**
 
-**[[#028]](CEV/C1/C028.py) - Guess the Number**❤️
+**[[#028]](CEV/C3/C028.py) - Guess the Number**❤️
 
-**[[#029]](CEV/C1/C029.py) - Traffic ticket**❤️
+**[[#029]](CEV/C3/C029.py) - Traffic ticket**❤️
 
-**[[#030]](CEV/C1/C030.py) - Even or odd**❤️
+**[[#030]](CEV/C3/C030.py) - Even or odd**❤️
 
 ---
 
 ### C4:
 
-**[[#031]](CEV/C1/C031.py) - Travel cost** ❤️
+**[[#031]](CEV/C4/C031.py) - Travel cost** ❤️
 
-**[[#032]](CEV/C1/C032.py) - Leap year**
+**[[#032]](CEV/C4/C032.py) - Leap year**
 
-**[[#033]](CEV/C1/C033.py) - Bigger or smaller**
+**[[#033]](CEV/C4/C033.py) - Bigger or smaller**
 
-**[[#034]](CEV/C1/C034.py) - Types of Salary raise** ❤️
+**[[#034]](CEV/C4/C034.py) - Types of Salary raise** ❤️
 
-**[[#035]](CEV/C1/C035.py) - Triangle or not?** ❤️
+**[[#035]](CEV/C4/C035.py) - Triangle or not?** ❤️
 
-**[[#036]](CEV/C1/C036.py) - Property financing** ❤️
+**[[#036]](CEV/C4/C036.py) - Property financing** ❤️
 
-**[[#037]](CEV/C1/C037.py) - Binary, Octal and Hexagonal**
+**[[#037]](CEV/C4/C037.py) - Binary, Octal and Hexagonal**
 
-**[[#038]](CEV/C1/C038.py) - Bigger or smaller 2**
+**[[#038]](CEV/C4/C038.py) - Bigger or smaller 2**
 
-**[[#039]](CEV/C1/C039.py) - Military enlistment**
+**[[#039]](CEV/C4/C039.py) - Military enlistment**
 
-**[[#040]](CEV/C1/C040.py) - Average grade of a student 2** ❤️
+**[[#040]](CEV/C4/C040.py) - Average grade of a student 2** ❤️
 
 ---
 
 ### C5:
 
-**[[#041]](CEV/C1/C041.py) - Athlete classification** 
+**[[#041]](CEV/C5/C041.py) - Athlete classification** 
 
-**[[#042]](CEV/C1/C042.py) - Equilateral, isosceles and scalene**
+**[[#042]](CEV/C5/C042.py) - Equilateral, isosceles and scalene**
 
-**[[#043]](CEV/C1/C043.py) - IMC**
+**[[#043]](CEV/C5/C043.py) - IMC**
 
-**[[#044]](CEV/C1/C044.py) - Payment type** ❤️
+**[[#044]](CEV/C5/C044.py) - Payment type** ❤️
 
-**[[#045]](CEV/C1/C045.py) - Rock Paper Scissors** ❤️
+**[[#045]](CEV/C5/C045.py) - Rock Paper Scissors** ❤️
 
-**[[#046]](CEV/C1/C046.py) - Happy New Year!** 
+**[[#046]](CEV/C5/C046.py) - Happy New Year!** 
 
-**[[#047]](CEV/C1/C047.py) - Even numbers**
+**[[#047]](CEV/C5/C047.py) - Even numbers**
 
-**[[#048]](CEV/C1/C048.py) - Multiples of 3**
+**[[#048]](CEV/C5/C048.py) - Multiples of 3**
 
-**[[#049]](CEV/C1/C049.py) - Multiplication table 2** ❤️
+**[[#049]](CEV/C5/C049.py) - Multiplication table 2** ❤️
 
-**[[#050]](CEV/C1/C050.py) - Even numbers sum** 
+**[[#050]](CEV/C5/C050.py) - Even numbers sum** 
 
 ---
 
 ### C6:
 
-**[[#051]](CEV/C1/C051.py) - Arithmetic progression** ❤️
+**[[#051]](CEV/C6/C051.py) - Arithmetic progression** ❤️
 
-**[[#052]](CEV/C1/C052.py) - Prime number**
+**[[#052]](CEV/C6/C052.py) - Prime number**
 
-**[[#053]](CEV/C1/C053.py) - Palindrome** ❤️
+**[[#053]](CEV/C6/C053.py) - Palindrome** ❤️
 
-**[[#054]](CEV/C1/C054.py) - Of legal age** 
+**[[#054]](CEV/C6/C054.py) - Of legal age** 
 
-**[[#055]](CEV/C1/C055.py) - Average weight** ❤️
+**[[#055]](CEV/C6/C055.py) - Average weight** ❤️
 
-**[[#056]](CEV/C1/C056.py) - Ages** 
+**[[#056]](CEV/C6/C056.py) - Ages** 
 
-**[[#057]](CEV/C1/C057.py) - M / F**
+**[[#057]](CEV/C6/C057.py) - M / F**
 
-**[[#058]](CEV/C1/C058.py) - Guess the number 2** ❤️
+**[[#058]](CEV/C6/C058.py) - Guess the number 2** ❤️
 
-**[[#059]](CEV/C1/C059.py) - Math operations** 
+**[[#059]](CEV/C6/C059.py) - Math operations** 
 
-**[[#060]](CEV/C1/C060.py) - Factorial** 
+**[[#060]](CEV/C6/C060.py) - Factorial** 
 
