@@ -1,5 +1,6 @@
 # Curso Em Vídeo - Python Exercises 🐍
-### [EN] This repository represents the done exercises in the "Curso em Vídeo" available on Youtube through professor Gustavo Guanabara.
+### [EN] This repository represents the done exercises in the "Curso em Vídeo" (CEV) available on Youtube through professor Gustavo Guanabara.
+### Contains a bonus (MOC) that represents tests and parts of my learning on the course
 
 ---
 ### Exercises with a brief description you can find in this repository:
