@@ -26,7 +26,7 @@ C = 1
 
 while P != A:
 
-    P = int(input('Errado! Tente novamente: '))
+    P = int(input('\033[1;31mErrado! Tente novamente: '))
     C += 1
 
-print('Correto! Você precisou de {} tentativa(s)!'.format(C))
+print('\033[1;32mCorreto! Você precisou de {} tentativa(s)!'.format(C))
