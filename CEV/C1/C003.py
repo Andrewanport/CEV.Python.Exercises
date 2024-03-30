@@ -6,13 +6,9 @@ N2 = float(input('Digite um Número (2):'))
 
 # Operações
 S = N1 + N2
-M = N1 * N2
-D = N1 / N2
 
-opS = 'soma'
-opM = 'multiplicação'
-opD = 'divisão'
+Sum = 'soma'
 
 # Prints
-print('A {} entre {} e {} equivale à {}'.format(opS, N1, N2, S))
+print('A {} entre {} e {} equivale à {}'.format(Sum, N1, N2, S))
 
