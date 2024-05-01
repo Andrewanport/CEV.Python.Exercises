@@ -47,14 +47,14 @@ print(f'| Número de pessoas cadsatradas: {len(main)}')
 
 print(f'| O maior peso foi de: {heavy}Kg', end=' ')
 
-# finding
+# [Heavy]
 for p in main:
     if p[1] == heavy:
-        print(f'[{p[0]}]', end=' ')
+        print(f'[{p[0]}]', end=' ')     # Who's [Heavy]?        
 
 print(f'\n| O menor peso foi de {light}Kg', end=' ')
 for p in main:
     if p[1] == light:
-        print(f'[{p[0]}]', end=' ')
+        print(f'[{p[0]}]', end=' ')     # Who's [light]?
 
 
